@@ -1,0 +1,6 @@
+{
+  "name": "高円寺アンダーグラウンド・ディーヴァ",
+  "description": "高円寺を舞台にしたアングラ＆レトロなサブカルアイドル育成シミュレーションゲーム。限られた12週間で個性を磨き、知名度を高め、大ライブハウスでのワンマンライブを大成功に導こう！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
